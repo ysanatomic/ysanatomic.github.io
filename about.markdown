@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello, reader - thanks for stopping by.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My name is Yordan - an 18-year-old interested in Security and Vulnerability Research.\
+I am especially interested in low-level stuff, mainly researching the Linux Kernel but I am always trying to expand my knowledge into other interesting fields (hello Browser Exploitation).  
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Here you can find articles on topics mainly concerning Security and write-ups of vulnerabilities.  
 
+I will soon be looking for a job so if you are a recruiter interested in what I can provide for your team - feel free to hit me up on Twitter.
 
-[jekyll-organization]: https://github.com/jekyll
+*Socials can be found in the footer of the page.*
+
