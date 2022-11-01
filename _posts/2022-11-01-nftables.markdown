@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Dissecting the Linux Firewall: Introduction to Netfilter's nf_tables"
+permalink: /netfilter_nf_tables/
 date:   2022-11-1 15:00:00 +0300
 ---
 ## Introduction
