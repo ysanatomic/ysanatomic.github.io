@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://ysanatomic.github.io/</loc>
+	<lastmod>2022-11-11T20:33:05+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://ysanatomic.github.io/about/</loc>
+	<lastmod>2022-11-11T20:33:05+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://ysanatomic.github.io/cve-2022-1015/</loc>
+	<lastmod>2022-11-11T20:33:05+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://ysanatomic.github.io/netfilter_nf_tables/</loc>
+	<lastmod>2022-11-11T20:33:05+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+</urlset>
