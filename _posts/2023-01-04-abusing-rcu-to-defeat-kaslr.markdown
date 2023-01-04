@@ -164,6 +164,8 @@ To achieve that we have to do the following:
 ![diagram](https://i.imgur.com/oQMWv87.png)
 
 ## Resources <a name="resources"></a>
+Some resources you might want to check out.
+
 1. [What is RCU?](https://www.kernel.org/doc/Documentation/RCU/whatisRCU.txt)
 2. [mq_overview](https://man7.org/linux/man-pages/man7/mq_overview.7.html)
 3. [keyrings](https://man7.org/linux/man-pages/man7/keyrings.7.html)
