@@ -87,8 +87,8 @@ struct user_key_payload {
 };
 
 struct callback_head {
-	struct callback_head *next; // @8
-	void (*func)(struct callback_head *head); // @16 rcu_head->func 
+	struct callback_head *next; // @0
+	void (*func)(struct callback_head *head); // @8 rcu_head->func 
 } __attribute__((aligned(sizeof(void *))));
 #define rcu_head callback_head
 ```
