@@ -10,7 +10,7 @@ I am Yordan and I dissect stuff. I am especially interested in low-level softwar
 
 Here you can find articles on topics mainly concerning Security and write-ups of vulnerabilities.  
 
-I will soon be looking for a job so if you are a recruiter interested in what I can provide for your team - feel free to hit me up on Twitter.
+I will soon be looking for a job so if you are a recruiter interested in what I can provide for your team - feel free to hit me up on Twitter or by email.
 
-*Socials can be found in the footer of the page.*
+*My socials and email can be found in the footer of the page.*
 
