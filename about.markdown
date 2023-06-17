@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Thanks for stopping by!
+Born and raised in Bulgaria, named Yordan after my grandfather, named myself *anatomic* when I was 11.
 
-My name is Yordan but when online I mainly go by *"anatomic"*.
+I build and break stuff - I love solving complicated, interesting problems.
 
-Nowadays I mostly do security research - mainly dissecting kernels but I am always trying to expand my knowledge into other interesting fields.
+Here you shall find articles mostly concerning security research - mainly kernel stuff.
 
-Here you can find articles on topics mainly concerning security and write-ups of vulnerabilities.  
+Trying my best not to be a *noob*, eternal search for knowledge - I *need* to be able to understand the stuff I am working with/at down to their core.
 
-I will soon be looking for a job so if you are a recruiter interested in what I can provide for your team - feel free to hit me up on Twitter or by email.
+Currently looking for a job so if you are recruiting and you are interested in what I can provide for your team - feel free to email me. Here is my [resume](https://github.com/ysanatomic/resume/blob/main/resume.pdf).
 
 *My socials and email can be found in the footer of the page.*
-
